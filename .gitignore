@@ -1,0 +1,34 @@
+# Dependencies and generated output
+node_modules/
+.next/
+out/
+dist/
+coverage/
+.vercel/
+*.tsbuildinfo
+*.log
+
+# Local settings and secrets (the example contains no values)
+.env*
+!.env.example
+.npmrc
+*.pem
+*.key
+credentials*.json
+service-account*.json
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Private working notes and local meeting exports
+AGENTS.md
+CLAUDE.md
+.omc/
+recordings/
+uploads/
+exports/
+*.wav
+*.mp3
+*.m4a
+*.mp4
