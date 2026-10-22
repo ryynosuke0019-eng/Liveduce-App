@@ -4,9 +4,9 @@ Liveduceの画面設計と操作フローを紹介する、固定データのイ
 
 このリポジトリは実績紹介用のデモです。商用サービス本体の全ソース、実際の録音・文字起こし・AI生成基盤は含みません。画面素材は2026年8月時点のスナップショットであり、最新の本番稼働状況を示すものではありません。
 
-[既存Webデモを見る](https://liveduce-portfolio-demo.vercel.app/) · [操作デモを開く](https://liveduce-portfolio-demo.vercel.app/demo)
+[Webデモを見る](https://liveduce-portfolio-demo.vercel.app/) · [操作デモを開く](https://liveduce-portfolio-demo.vercel.app/demo)
 
-リンク先は既存の2026年8月版です。このリポジトリで行った説明・書き出し表示の修正が、Web側へ反映済みであることは示しません。
+2026年10月22日に、Next.js 16.4.2への更新と、このリポジトリの説明・書き出し表示の修正をWebデモへ反映しました。画面素材は引き続き2026年8月時点のものです。公開ページと配信ソースの一致を確認しています。
 
 ## 見どころ
 
@@ -29,7 +29,7 @@ Liveduceの画面設計と操作フローを紹介する、固定データのイ
 
 | 項目 | 使用技術 |
 | --- | --- |
-| フレームワーク | Next.js 16.3.1 / App Router |
+| フレームワーク | Next.js 16.4.2 / App Router |
 | UI | React / React DOM 19.2.8、CSS |
 | 言語 | TypeScript 7.0.2 |
 | 任意のテスト決済 | Stripe SDK 22.5.0 |
